@@ -1,4 +1,3 @@
-import e from 'cors';
 import { async } from 'regenerator-runtime';
 import { API_URL, RES_PER_PAGE, KEY } from './config'; // add API from config file
 //import { getJSON, sendJSON } from './helpers.js';
